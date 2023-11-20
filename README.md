@@ -49,9 +49,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto e o jogo (o mesmo que você está lendo agora).
 
-## 🔧 Instalação
+## 🔧 Como executar o código
 
-Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços etc.) e instalação básica do projeto, descrevendo as versões utilizadas.
+*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o código e executar o jogo a partir de sua máquina ou seu repositório.*
 
 
 ## 🗃 Histórico de lançamentos

@@ -195,15 +195,15 @@
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
-*Descreva e ilustre aqui o desenvolvimento da versão básica do jogo, explicando brevemente o que foi entregue. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+*Descreva e ilustre aqui o desenvolvimento da versão básica do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
 
 ## 4.3. Desenvolvimento intermediário do jogo (sprint 3)
 
-*Descreva e ilustre aqui o desenvolvimento da versão intermediária do jogo, explicando brevemente o que foi entregue. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+*Descreva e ilustre aqui o desenvolvimento da versão intermediária do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
 
 ## 4.4. Desenvolvimento final do MVP (sprint 4)
 
@@ -211,7 +211,7 @@
 
 # <a name="c5"></a>4. Testes (sprint 4)
 
-## Casos de Teste
+## 4.1. Casos de Teste
 
 *Descreva nesta seção os casos de teste comuns que podem ser executados a qualquer momento para testar o funcionamento e integração das partes do jogo. Utilize tabelas para facilitar a organização.*
 
@@ -222,23 +222,28 @@
 2 | posicionar o personagem em local seguro de inimigos | aguardar o tempo passar até o final da contagem | o personagem deve perder uma vida e reiniciar a fase
 3 | ...
 
-## Testes de jogabilidade
+## 4.2. Testes de jogabilidade (playtests)
 
 *Descreva nesta seção as sessões de teste/entrevista com diferentes jogadores. Registre cada teste conforme o template a seguir. Você também pode apresentar um plano de melhorias sobre o jogo, com base nos resultados dos testes de jogabilidade*
 
-Nome | João Jonas
+Nome | João Jonas (use nomes fictícios)
 --- | ---
+Já possuía experiência prévia com games? | sim, é um jogador casual
 Conseguiu iniciar o jogo? | sim
-Entendeu as regras e mecânicas do jogo? | apenas as essenciais, não explorou os comandos complexos
+Entendeu as regras e mecânicas do jogo? | entendeu as regras, mas sobre as mecânicas, apenas as essenciais, não explorou os comandos complexos
 Conseguiu progredir no jogo? | sim, sem dificuldades  
 Apresentou dificuldades? | Não, conseguiu jogar com facilidade e afirmou ser fácil
 Que nota deu ao jogo? | 9.0
 O que gostou no jogo? | Gostou  de como o jogo vai ficando mais difícil ao longo do tempo sem deixar de ser divertido
 O que poderia melhorar no jogo? | A responsividade do personagem aos controles, disse que havia um pouco de atraso desde o momento do comando até a resposta do personagem
 
+#### Plano de melhorias
+
+*Relacione os pontos de melhorias evidenciados nos testes com plano de ações para serem implementadas no jogo. O grupo não precisa implementá-las, pode deixar registrado aqui o plano para futuros desenvolvimentos.*
+
 # <a name="c6"></a>6. Referências (sprint 5)
 
-_Incluir as principais referências de seu projeto, para que seu parceiro possa consultar caso ele se interessar em aprofundar. Um exemplo de referência de livro e de site: <br>
+_Incluir as principais referências de seu projeto, para que seu parceiro possa consultar caso ele se interessar em aprofundar. Um exemplo de referência de livro e de site:_<br>
 
 LUCK, Heloisa. Liderança em gestão escolar. 4. ed. Petrópolis: Vozes, 2010. <br>
 SOBRENOME, Nome. Título do livro: subtítulo do livro. Edição. Cidade de publicação: Nome da editora, Ano de publicação. <br>
@@ -248,4 +253,4 @@ SOBRENOME, Nome. Título do site. Disponível em: link do site. Acesso em: Dia M
 
 # <a name="c7"></a>Anexos
 
-*Inclua aqui quaisquer complementos para seu projeto, como diagramas, imagens, tabelas etc. Organize em sub-tópicos utilizando heading menor (## ou ### como título markdown)*
+*Inclua aqui quaisquer complementos para seu projeto, como diagramas, imagens, tabelas etc. Organize em sub-tópicos utilizando headings menores (use ## ou ### para isso)*

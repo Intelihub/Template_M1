@@ -126,6 +126,10 @@
 
 *\<opcional\> Se existirem coadjuvantes ou vilões, aqui é o local para descrevê-los e ilustrá-los. Utilize listas ou tabelas para organizar esta seção. Caso utilize material de terceiros em licença Creative Commons, não deixe de citar os autores/fontes. Caso não existam NPCs, remova esta seção.*
 
+### 3.2.3. Diversidade e Representatividade dos Personagens
+
+Considerando as personagens do game, analise se estas estão alinhadas ao público-alvo do jogo (seção 1.3), e compare-as dentro da realidade da sociedade brasileira. Por fim, discorra sobre qual é o impacto esperado da escolha dessas personagens.
+
 ## 3.3. Mundo do jogo (sprints 2 e 3)
 
 ### 3.3.1. Locações Principais e/ou Mapas (sprints 2 e 3)

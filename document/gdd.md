@@ -56,7 +56,7 @@
 
 *Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
 
-## 1.2. Requisitos do Projeto (sprint 1)
+## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
 *Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
 
@@ -227,6 +227,10 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 *Descreva e ilustre aqui o desenvolvimento da versão final do jogo, explicando brevemente o que foi entregue em termos de MVP. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e planos futuros.*
 
+## 4.5. Revisão do MVP (sprint 5)
+
+*Descreva e ilustre aqui o desenvolvimento dos refinamentos e revisões da versão final do jogo, explicando brevemente o que foi entregue em termos de MVP. Utilize prints de tela para ilustrar.*
+
 # <a name="c5"></a>5. Testes (sprint 4)
 
 ## 5.1. Casos de Teste
@@ -242,7 +246,9 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 5.2. Testes de jogabilidade (playtests) (sprint 4)
 
-*Descreva nesta seção as sessões de teste/entrevista com diferentes jogadores. Registre cada teste conforme o template a seguir. Você também pode apresentar um plano de melhorias sobre o jogo, com base nos resultados dos testes de jogabilidade, na próxima seção 6.*
+### 5.2.1 Registros de testes
+
+*Descreva nesta seção as sessões de teste/entrevista com diferentes jogadores. Registre cada teste conforme o template a seguir.*
 
 Nome | João Jonas (use nomes fictícios)
 --- | ---
@@ -254,6 +260,10 @@ Apresentou dificuldades? | Não, conseguiu jogar com facilidade e afirmou ser f�
 Que nota deu ao jogo? | 9.0
 O que gostou no jogo? | Gostou  de como o jogo vai ficando mais difícil ao longo do tempo sem deixar de ser divertido
 O que poderia melhorar no jogo? | A responsividade do personagem aos controles, disse que havia um pouco de atraso desde o momento do comando até a resposta do personagem
+
+### 5.2.2 Melhorias
+
+*Descreva nesta seção um plano de melhorias sobre o jogo, com base nos resultados dos testes de jogabilidade*
 
 # <a name="c6"></a>6. Conclusões e trabalhos futuros (sprint 5)
 

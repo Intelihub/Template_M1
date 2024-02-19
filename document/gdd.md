@@ -231,9 +231,9 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 *Descreva e ilustre aqui o desenvolvimento dos refinamentos e revisões da versão final do jogo, explicando brevemente o que foi entregue em termos de MVP. Utilize prints de tela para ilustrar.*
 
-# <a name="c5"></a>5. Testes (sprint 4)
+# <a name="c5"></a>5. Testes
 
-## 5.1. Casos de Teste
+## 5.1. Casos de Teste (sprints 2 a 4)
 
 *Descreva nesta seção os casos de teste comuns que podem ser executados a qualquer momento para testar o funcionamento e integração das partes do jogo. Utilize tabelas para facilitar a organização.*
 

@@ -40,6 +40,10 @@
 
 *Posicione aqui o texto que explica o contexto da indústria/mercado do qual o parceiro de projeto faz parte. Contextualize o segmento de atuação do parceiro (pode ser indústria, comércio ou serviço). Caracterize as atividades executadas pelo negócio do parceiro e a abrangência de suas atividades (âmbito internacional, nacional ou regional).*
 
+#### 1.1.1.1. Modelo de 5 Forças de Porter
+
+*Posicione aqui o modelo de 5 Forças de Porter para sustentar o contexto da indústria.*
+
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
 *Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*

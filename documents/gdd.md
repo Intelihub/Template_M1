@@ -32,33 +32,45 @@
 <br>
 
 
-# <a name="c1"></a>1. Contexto da Solução (sprints 1 e 4)
+# <a name="c1"></a>1. Introdução (sprints 1 a 4)
 
-## 1.1. Escopo do Projeto
+## 1.1. Plano Estratégico do Projeto
 
-### 1.1.1. Contexto da indústria (sprints 1 e 4)
+### 1.1.1. Contexto da indústria (sprint 1)
 
 *Posicione aqui o texto que explica o contexto da indústria/mercado do qual o parceiro de projeto faz parte. Contextualize o segmento de atuação do parceiro (pode ser indústria, comércio ou serviço). Caracterize as atividades executadas pelo negócio do parceiro e a abrangência de suas atividades (âmbito internacional, nacional ou regional).*
 
-#### 1.1.1.1. Modelo de 5 Forças de Porter
+#### 1.1.1.1. Modelo de 5 Forças de Porter (sprint 1)
 
 *Posicione aqui o modelo de 5 Forças de Porter para sustentar o contexto da indústria.*
 
-### 1.1.2. Análise SWOT (sprints 1 e 4)
+### 1.1.2. Análise SWOT (sprint 2)
 
 *Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*
 
-### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
+### 1.1.3. Missão / Visão / Valores (sprint 3)
 
-*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+*Posicione aqui a Missão, Visão e Valores do seu projeto.*
 
-### 1.1.4. Proposta de Valor (sprints 1 e 4)
+### 1.1.4. Proposta de Valor (sprint 2)
 
 *Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
 
-### 1.1.5. Matriz de Riscos (sprints 1 e 4)
+### 1.1.5. Descrição da Solução Desenvolvida (sprints 2 a 4)
+
+*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+
+### 1.1.6. Matriz de Riscos (sprint 4)
 
 *Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
+
+### 1.1.7. Objetivos, Metas e Indicadores (sprint 3)
+
+*Definição de metas SMART (específicas, mensuráveis, alcançáveis, relevantes e temporais) para seu projeto, com indicadores claros para mensuração*
+
+### 1.1.8. Plano de Ação (sprint 3)
+
+*Detalhamento prático e estratégico das ações necessárias para atingir os objetivos propostos, incluindo cronograma e responsáveis*
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
@@ -80,7 +92,7 @@
 
 ## 1.4. Plano Estratégico do Projeto (sprint 3)
 
-*Defina aqui um Plano Estratégico do Projeto, contendo: (1) Missão / Visão / Valores, (2) Breve Análise do Mercado, (3) Avaliação SWOT do projeto, (4) Objetivos / Metas / Indicadores, (5) Plano de Ação*
+*Defina aqui um Plano Estratégico do Projeto, contendo: (1) Missão / Visão / Valores, (2) Breve Análise do Mercado, (3) Avaliação SWOT do projeto, *
 
 # <a name="c2"></a>2. Visão Geral do Jogo (sprint 2)
 

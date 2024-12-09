@@ -32,7 +32,7 @@
 <br>
 
 
-# <a name="c1"></a>1. Introdução (sprints 1 e 4)
+# <a name="c1"></a>1. Contexto da Solução (sprints 1 e 4)
 
 ## 1.1. Escopo do Projeto
 

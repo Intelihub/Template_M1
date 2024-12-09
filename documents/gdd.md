@@ -78,6 +78,10 @@
 
 *Posicione aqui uma descrição justificada do público-alvo do jogo, em termos demográficos e de preferências/gostos pessoais.*
 
+## 1.4. Plano Estratégico do Projeto (sprint 3)
+
+*Defina aqui um Plano Estratégico do Projeto, contendo: (1) Missão / Visão / Valores, (2) Breve Análise do Mercado, (3) Avaliação SWOT do projeto, (4) Objetivos / Metas / Indicadores, (5) Plano de Ação*
+
 # <a name="c2"></a>2. Visão Geral do Jogo (sprint 2)
 
 ## 2.1. Objetivos do Jogo (sprint 2)
@@ -94,7 +98,7 @@
 
 *quanto ao dispositivo: desktop, smartphones, tablets, TV etc.*
 
-*quanto ao sistema: Web, Windows, MacOS, Android, IOS etc.*
+*quanto ao sistema: navegadores compatíveis*
 
 ### 2.2.3. Número de jogadores (sprint 2)
 

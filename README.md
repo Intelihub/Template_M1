@@ -6,15 +6,15 @@
 
 <br>
 
-# Nome do projeto
+Gatotti
 
-## Nome do grupo
+Gatotti
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
+- <a href=https://www.linkedin.com/in/emanuelly-cantarelli-2a0480305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app>Emanuelly Cantarelli Dias</a>
+- <a href=https://www.linkedin.com/in/antonio-andre-613937345>Antônio Augusto Tavares Ribeiro André</a>
+- <a href=https://www.linkedin.com/in/lucas-pomin-62408b350/>Lucas Aquilino Pomin</a> 
+- <a href=linkedin.com/in/leandro-barankiewicz-8a293a345>Leandro Precaro Barankiewicz Filho</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>

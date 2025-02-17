@@ -166,7 +166,7 @@ Considerando as personagens do game, analise se estas estão alinhadas ao públi
 
 Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
-### 3.3.5. Trilha sonora (sprint 3)
+### 3.3.5. Trilha sonora (sprint 4)
 
 *Descreva a trilha sonora do jogo, indicando quais músicas serão utilizadas no mundo e nas fases. Utilize listas ou tabelas para organizar esta seção. Caso utilize material de terceiros em licença Creative Commons, não deixe de citar os autores/fontes.*
 
@@ -260,7 +260,7 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 2 | posicionar o personagem em local seguro de inimigos | aguardar o tempo passar até o final da contagem | o personagem deve perder uma vida e reiniciar a fase
 3 | ...
 
-## 5.2. Testes de jogabilidade (playtests) (sprint 4)
+## 5.2. Testes de jogabilidade (playtests) (sprint 5)
 
 ### 5.2.1 Registros de testes
 
